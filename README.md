@@ -1,6 +1,6 @@
 # Merocoin B2B Business Platform
 
-![Mero-Logo](https://imgur.com/a/supAXeP)
+![Mero-Logo](https://i.imgur.com/wzcDkth.jpg)
 # Merocoin Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a Merocoin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
