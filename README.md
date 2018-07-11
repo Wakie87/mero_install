@@ -104,13 +104,13 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget -q https://raw.githubusercontent.com/Realbityoda/Galilel/master/Galilel_install.sh`
+`wget -q https://raw.githubusercontent.com/Wakie87/meroinstall/master/mero-install.sh`
 ***
 
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`bash Galilel_install.sh`
+`bash mero_install.sh`
 
 ![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
@@ -135,7 +135,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Galilel Coin wallet [here](https://github.com/GalilelDEV/Galilel/releases)
+* Download and install the Mero Coin wallet [here](https://github.com/merocoin/mero/releases)
 ***
 
 ***Step 2***
