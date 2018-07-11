@@ -7,7 +7,7 @@ This guide will assist you in setting up a Merocoin Masternode on a Linux Server
 If you require further assistance contact the support team @ [Discord](https://discord.gg/CB65f74)
 ***
 ## Requirements
-1) **1000 MERO coins.**
+1) **1001 MERO coins.** There will also be a small network transaction fee when sending the coins, so it is recommended to have one extra coin to cover that fee.
 2) **A Vultr VPS running Linux Ubuntu 16.04.**
 3) **A Windows local wallet.**
 4) **An SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe)**
