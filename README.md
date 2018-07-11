@@ -1,9 +1,8 @@
-# mero
-Merocoin B2B Business Platform
+# Merocoin B2B Business Platform
 
-![Example-Logo](https://i.imgur.com/JzYl34b.png)
-# Mero Coin Masternode Setup Guide (Ubuntu 16.04)
-This guide will assist you in setting up a Mero Coin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
+![Mero-Logo](https://imgur.com/a/supAXeP)
+# Merocoin Masternode Setup Guide (Ubuntu 16.04)
+This guide will assist you in setting up a Merocoin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
 If you require further assistance contact the support team @ [Discord](https://discord.gg/CB65f74)
 ***
@@ -105,13 +104,13 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget -q https://raw.githubusercontent.com/Wakie87/meroinstall/master/mero-install.sh`
+`wget -q https://raw.githubusercontent.com/Realbityoda/Galilel/master/Galilel_install.sh`
 ***
 
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`bash mero-install.sh`
+`bash Galilel_install.sh`
 
 ![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
@@ -136,7 +135,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Galilel Coin wallet [here](https://github.com/merocoin/mero/releases)
+* Download and install the Galilel Coin wallet [here](https://github.com/GalilelDEV/Galilel/releases)
 ***
 
 ***Step 2***
